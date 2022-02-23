@@ -1,0 +1,3 @@
+www.meitu131.net
+爬取的是这个网址的图片
+scrapy（二）
